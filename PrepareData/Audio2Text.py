@@ -15,9 +15,8 @@ def write_to_txt(transcription, output_path):
 def delete_file(file_path):
     try:
         os.remove(file_path)
-        print(f"Die Datei {file_path} wurde erfolgreich gelöscht.")
     except OSError as e:
-        print(f"Fehler beim Löschen der Datei {file_path}: {e}")
+        log(f"Could not delete File {file_path}: {e}")
 
 def convert_mp3_to_wav(mp3_file, wav_file, sample_rate=16000, channels=1, sample_width=2):
     # Öffnet die MP3-Datei mit pydub
