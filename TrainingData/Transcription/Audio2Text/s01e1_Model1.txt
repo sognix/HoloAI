@@ -1,0 +1,445 @@
+{
+  "text" : "täter"
+}{
+  "text" : ""
+}{
+  "text" : "nein"
+}{
+  "text" : ""
+}{
+  "text" : "möbel"
+}{
+  "text" : "mid"
+}{
+  "text" : "schäden"
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : "ja"
+}{
+  "text" : ""
+}{
+  "text" : "nein"
+}{
+  "text" : ""
+}{
+  "text" : "oh"
+}{
+  "text" : "es war einmal ein kleines dorf indem man irgendwann begonnen hatte da läuft der wolf zum sich im wind wiegenden weizen zu sagen"
+}{
+  "text" : "vom wind umgeknickt weizen ehren wurden sprichwörtlich vom wolf zertrampelt wenn die ernte verdorben war sagte man der wolf habe sie gefressen"
+}{
+  "text" : "am anfang gab es nichts"
+}{
+  "text" : "es gab nur werner und dann wurde ein versprechen gegeben"
+}{
+  "text" : ""
+}{
+  "text" : "sz"
+}{
+  "text" : ""
+}{
+  "text" : "begegnungen und trennungen folgten einander und ganz von allein schufen die menschen nach und nach ihren eigenen reichtum"
+}{
+  "text" : "es war womöglich nicht mehr nötig das versprechen zu halten"
+}{
+  "text" : ""
+}{
+  "text" : "ich habe langsam aber sicher genug von dieser landstraße"
+}{
+  "text" : "oh"
+}{
+  "text" : "sind sie ein händler etwa einen halben tag östlich schon hier gibt es ein kleines abgelegenes bergdorf ich war gestern dort und habe salz verkauft das ist also alles salz nein"
+}{
+  "text" : "das sind pelze"
+}{
+  "text" : "hm ach das ist nur etwas weißen er hält hitze und kälte gut aus"
+}{
+  "text" : "was ist denn los hier wird man ja ziemlich eingeschüchtert"
+}{
+  "text" : "nun wissen sie im westlichen dorf von ihr findet bald ein heidnisches fest statt heidnisches fest hm"
+}{
+  "text" : "sie sind wirklich ein unverschämtes volk diese leute glauben nicht an unseren herrn"
+}{
+  "text" : "wenn sie mich fragen sollte der papst wesentlich härter durchgreifen doch dieser sache scheint ihn nicht zu kümmern ich bin mir sicher dass er von den heiden ausgeprägte heiden meinen sind die leute aus kostenlos"
+}{
+  "text" : "oh so schön ich glaube ich bin wirklich überrascht dass wir mit dieser neuen methode so viel weizen ernten können das haben wir alles den hafen zu verdanken auf die wölfin kann man sich eben nicht mehr verlassen die strähne so übersee immerhin ist sie doch eine dort war es das erste x x x x o hallo leute"
+}{
+  "text" : "hallo schön euch wiederzusehen du kommst genau zum richtigen zeitpunkt morgen beginnt nämlich das erntefest was er macht ich war der festen überzeugung es hätte längst begonnen wir haben nur etwas vorgearbeitet du verstehst was du tust na hör mal jetzt dafür den arm nicht auch noch zum alkohol ich bin"
+}{
+  "text" : "vielmals um verzeihung"
+}{
+  "text" : "da fällt mir ein könntet ihr mir vielleicht sagen wo chloe louise verstehe darum geht's also nein ihr missversteht mich ist immerhin mein lehrling und ich wollte etwas mit ihr trinken wollt ich würde gerne mit dir reden"
+}{
+  "text" : "dann hast du wohl pech gehabt"
+}{
+  "text" : "dieses jahr wird ihr feld nämlich als allerletztes abgeerntet und vielleicht wird sie deshalb bei der ernte schlussfeier zu hole auserwählte"
+}{
+  "text" : "gesehen mein lieber"
+}{
+  "text" : "der wird wohl in diesem jahr die wölfin erwischen"
+}{
+  "text" : "blaue"
+}{
+  "text" : "du bist ja voller wird entwischen wenn du nicht aufpasst"
+}{
+  "text" : "das letzte büschel weißen sarg hat irgendein weiteres pass gut auf sonst läuft wohl davon wer war dieses jahr die bei finalist"
+}{
+  "text" : "ja tja bis"
+}{
+  "text" : ""
+}{
+  "text" : "ha ha"
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : "viele erinnerungen ausgetauscht"
+}{
+  "text" : "hallo mich wahnsinnig"
+}{
+  "text" : ""
+}{
+  "text" : "schön dich wiederzusehen hat mich heute angesagt"
+}{
+  "text" : ""
+}{
+  "text" : "ich soll sie einladen sagt sie"
+}{
+  "text" : ""
+}{
+  "text" : "dabei wird jedoch eine woche da drin festsetzen"
+}{
+  "text" : "dank dir hat sich eine neue handelsroute für uns eröffnet"
+}{
+  "text" : "ja das freut mich ehrlich gesagt sehr chloe schlägt sich als stoffhändler in der sie leistet ausgezeichnete arbeit die wirtschaft des dorfes floriert wie nie zuvor o treny silbermünzen die habe ich schon länger nicht mehr gesehen"
+}{
+  "text" : "von den alten rostigen riots silbermünzen kannst du dich verabschieden scheint so als könntet ihr euch schon bald mit den menschen aus patio messen"
+}{
+  "text" : "nein so schnell geht es nicht wir verdanken das alles nur unserem neuen ehrenwerten lehnsherrn graf elend und ohne ihn wäre das nicht möglich gewesen es gibt inzwischen keinen grund mir den wolf anzubieten dank unseres fortschritts machen uns dürren und stürmen nichts mehr aus"
+}{
+  "text" : "anstatt mit trendy silbermünzen werden wir hoffentlich sogar bald mit lumi ohne goldmünzen handeln"
+}{
+  "text" : "wenn es soweit ist freue ich mich auf unsere künftige zusammenarbeit wütenden"
+}{
+  "text" : ""
+}{
+  "text" : "hm"
+}{
+  "text" : "einen menschen von außerhalb sind für sie doch nur ein ärgernis"
+}{
+  "text" : "trotzdem ist es übertrieben dass er von gummi ohne goldmünzen rede"
+}{
+  "text" : "also gut ich hau mich hin"
+}{
+  "text" : ""
+}{
+  "text" : "einen"
+}{
+  "text" : "essen"
+}{
+  "text" : ""
+}{
+  "text" : "was soll das denn"
+}{
+  "text" : "hey"
+}{
+  "text" : "du da"
+}{
+  "text" : ""
+}{
+  "text" : "hey los war schon auf was in aller welt hast du in meinen beiden versuchen"
+}{
+  "text" : ""
+}{
+  "text" : "jetzt bach entwickelt hat"
+}{
+  "text" : "das sind uhren"
+}{
+  "text" : ""
+}{
+  "text" : "einen"
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : "hey"
+}{
+  "text" : "na"
+}{
+  "text" : "anlegen"
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : "was für ein wundervoller mond zahn hat er vielleicht etwas alkohol bei sich"
+}{
+  "text" : "nein hab ich nicht und überhaupt hat er nie"
+}{
+  "text" : "und wie sieht es mit essen aus"
+}{
+  "text" : "oh nein was seine verschwunden"
+}{
+  "text" : "gehört haha"
+}{
+  "text" : "church du willst dir etwas von einem dämon besessen"
+}{
+  "text" : "er ist ja ganz schön frech wie unerhört mir ein messer vorzuhalten was river was hm ach so ist das er ist gar kein bewohner des dorfes bitte entschuldige er vergesse er was ich sagte"
+}{
+  "text" : ""
+}{
+  "text" : "man nennt mich holo ich habe diese gestalt schon sehr lange nicht mehr angenommen doch wie mir scheint ist sie gut gelungen bruno hm ein hübscher name findet er nicht durch zufall ich kenne nämlich jemanden der exakt denselben namen trägt ach wirklich also ich habe bisher noch nie jemand anderen mit dem namen holo getroffen"
+}{
+  "text" : "würde er mir verraten woher sie stammt es ist der name der gottheit dieses dorfes willst du mir etwa weismachen du wärst eine göttin"
+}{
+  "text" : "schon lange zeit bin ich an dieses land gebunden und werde von den bewohnern eine göttin genannt aber eine wahre gottheit bin ich natürlich nicht es ist simpel ich bin ich ich bin einfach nur holo dieses mädchen wurde als kind sicher weggesperrt jetzt ist sie verstört und spricht zerriß zeug was für ein armes seltsames ding das denkt er doch gerade oder"
+}{
+  "text" : "nicht"
+}{
+  "text" : "meine wenigkeit wurde im hohen norden geboren norden ja die sommer sind kurz und die winter sehr lang"
+}{
+  "text" : "meine heimat ist ein waldner des dorfes joy zu es ist eine weite landschaft in der alles silber glänzend erstrahlt"
+}{
+  "text" : ""
+}{
+  "text" : "er ist ein reisender händler oder"
+}{
+  "text" : "würde er mich bitte mit sich nehmen wieso sollte ich eher noch wissen ich habe ein gutes gespür für menschen er gehört nicht zu der gleichgültigen sorte die eine solche bitte einfach abschlagen würde hab ich nicht recht"
+}{
+  "text" : "kneippbecken du irrst dich somit bin ich nicht sei bitte lieb zu mir ja"
+}{
+  "text" : "wusste ich's doch erst wirklich allerliebst so ein referat"
+}{
+  "text" : "mir missfällt diese gestellt zwar nicht aber sie kühlt nicht ab"
+}{
+  "text" : ""
+}{
+  "text" : "bruno"
+}{
+  "text" : "ah bello wirklich die weiße wölfin holo sein sollst dann beweise es mir hier und jetzt"
+}{
+  "text" : "wenn er damit etwa sagen ja möchte meine wolfsgestalt sehen genau"
+}{
+  "text" : "ich möchte aber nicht ps wieso der möchte lieber wieso er das will"
+}{
+  "text" : "solltest du ein gewöhnlicher mensch sein lasse ich dich von der kirche exorzieren dämonen wie von einer besitzergreifung machen nur ärger doch solltest du wirklich und wahrhaftig sie ernte göttin holo sein dann überlege ich es mir noch einmal sollte es nämlich wovon ich nicht ausgehe stimmen könntest du mir von nutzen sein"
+}{
+  "text" : "er möchte mich also wirklich so sehen ja billig"
+}{
+  "text" : "ich frage ihn jetzt ein letztes mal ist er sich wirklich sicher dass er mich so sehen möchte ja auf jeden fall"
+}{
+  "text" : "für jede veränderung der gestalt ist allerdings ein opfer vonnöten"
+}{
+  "text" : "und in meinem fall wäre das das blut eines lebenden oder auch einfach etwas weizen buch bitte bedien dich beim weizen"
+}{
+  "text" : "a"
+}{
+  "text" : ""
+}{
+  "text" : "warum"
+}{
+  "text" : "hey uwe"
+}{
+  "text" : "hast du"
+}{
+  "text" : "so"
+}{
+  "text" : ""
+}{
+  "text" : "h"
+}{
+  "text" : ""
+}{
+  "text" : "tut mir leid dass ich dich so spät noch belästigen muss nicht doch ich werde zum fest gehen aber du kannst gern hierbleiben"
+}{
+  "text" : ""
+}{
+  "text" : "wer ist da hallo holo h"
+}{
+  "text" : "doch du bist nicht aufgetaucht also mußte ich komm ja aber sag mal müsstest du nicht im kornspeicher sein ach eine holo gibt es doch wahrscheinlich sowieso nicht wirklich los gehen wir aber wo willst du denn hin du lädst mich doch ein weißt du nicht mehr"
+}{
+  "text" : "du riechst anders als vorhin hast du bei taucher woche vorbeigeschaut deine nase ist so gut wie eh und je der ackerboden und das leben dort haben nun mal einen ganz eigenen geruch ich muss sagen du hast dich ganz schön verändert du wirkst viel selbstbewusster findest du ich fühle mich einfach großartig pass auf vielleicht übertreffe ich dich ja eines tages"
+}{
+  "text" : "ach"
+}{
+  "text" : "dann möchte ich um deine gunst bitten wenn es soweit ist frechheit du glaubst sicher dass das nie passieren wird"
+}{
+  "text" : "doch natürlich das bier ist wirklich gut"
+}{
+  "text" : "was"
+}{
+  "text" : "hey das reicht nicht aber wenn du wirklich an mich glaubst dann habe ich dir was tolles zu erzählen"
+}{
+  "text" : "wenn alles klappt eröffne ich bald ein eigenes geschäft und kann sogar ein haus bauen"
+}{
+  "text" : "hm das klingt wirklich beeindrucken du nimmst mich gar nicht ernst ich stecke gerade mitten in einer großen verhandlung und wenn es klappt dann könnte ich ein riesengeschäft machen"
+}{
+  "text" : "laurence"
+}{
+  "text" : "wie soll ich es sagen du wirst deinem vater immer ähnlicher das meine ich ernst dein alter herr hatte auch ein wahnsinnig gutes gespür fürs geschäft"
+}{
+  "text" : "na ja diesmal ist das leider nicht so das ist auch der grund warum ich dir das ja alles erzähle bei großen verhandlungen gibt es immer irgendeinen haken"
+}{
+  "text" : "das wird wohl auch der grund sein warum du mich als partner bist"
+}{
+  "text" : "du verstehst mich nicht ich möchte dich als partner weil ich dich bewundere ich habe mir alles zu herzen genommen was du mir beigebracht hast laurens und ganz bestimmt hab ich es auch nur dadurch soweit gebracht es ist alles nur dank dir"
+}{
+  "text" : ""
+}{
+  "text" : "es ist gefährlich ja es ist viel zu gefährlich"
+}{
+  "text" : "außerdem bist du auch noch so jung es wäre besser erst mal mehr erfahrungen zu sammeln bevor du alles auf einmal auf so ein großes geschäft setzt"
+}{
+  "text" : "langweilig das wäre unsere chance gewesen zusammen reich zu werden ich sehe mich für dich mal nach weniger gefährlichen geschäften um und dann können wir uns auch gerne zusammentun"
+}{
+  "text" : "ich bin gewachsen und du hast es noch nicht einmal mitbekommen"
+}{
+  "text" : "nein als händlerin hast du noch einen sehr weiten weg vor dir"
+}{
+  "text" : "ich werde dir schon noch beweisen dass man mich ernst nehmen sollte"
+}{
+  "text" : "das wäre eine erfahrung wert ich freue mich schon drauf"
+}{
+  "text" : "wer ist sie"
+}{
+  "text" : "du hast vorhin so verträumt in den himmel gesehen hast du eine partnerin gefunden"
+}{
+  "text" : "nein ich habe mich gefragt wie holo wohl als partnerin wäre bruno meinst du mich nein ich meinte damit die echte hole hätte nicht gedacht dass du an dieses hirngespinst glaubst ein hirngespinst ja hirngespinst ein hirngespinst alter gerne auch hirngespinst"
+}{
+  "text" : "und was wenn es sie wirklich gibt fängst du schon wieder damit an sie hat es sicher auch nicht immer leicht so ein unsinn das kann nicht sein immerhin ist die wölfin eine göttin"
+}{
+  "text" : "schätze du hast recht"
+}{
+  "text" : ""
+}{
+  "text" : "hm"
+}{
+  "text" : ""
+}{
+  "text" : "oh mann natürlich ist sie nicht hier sag wen vermag er so dringend zu finden"
+}{
+  "text" : "hallo na sowas erbracht doch nicht so überrascht zu tun"
+}{
+  "text" : "hm wo hast du dich versteckt gehalten zu dieser jahreszeit lebe ich im geernteten weizen normalerweise kann ich ihn noch nicht verlassen weil immer menschen zu sehen aber es gibt eine ausnahme was meinst du damit falls ein bündel weizen größer ist als jenes das zuletzt geerntet wurde kann ich mich darin verstecken"
+}{
+  "text" : "so habe ich es angestellt"
+}{
+  "text" : "an derzeit"
+}{
+  "text" : "wie soll ich es sagen war er quasi meine rettung ja das war er weißt du vorhin"
+}{
+  "text" : "als du mir deine wahre gestalt zeigt ist da war ich wirklich mächtig überrascht"
+}{
+  "text" : "gut"
+}{
+  "text" : ""
+}{
+  "text" : "das ist so deswegen verschwunden"
+}{
+  "text" : "ich wurde vor langer zeit von einem jungen mann um etwas gebeten"
+}{
+  "text" : "ich sollte den weizen gedeihen lassen dieses versprechen habe ich bis heute gehalten"
+}{
+  "text" : "aber das land verdirbt wenn es zu viele gute ernten gibt ich mußte den boden der herr manchmal ruhen lassen leider sein dass die bewohner als eine strafe meinerseits an"
+}{
+  "text" : "in den letzten jahren wurde es immer schlimmer"
+}{
+  "text" : "so langsam glaube ich dass ich nicht mehr gebraucht werde und wenn sie mich dann doch mal brauchen dann laufen sie voller furcht vor meiner wahren gestalt davon ich kann nicht mal in ihre nähe"
+}{
+  "text" : "ich wünschte mir so sehr es wäre anders"
+}{
+  "text" : ""
+}{
+  "text" : "sagen wir ich glaube dir deine geschichte er ist solch ein misstrauischer mann gibt es einen ort zu dem du gehen willst wenn du dieses dorf verlässt"
+}{
+  "text" : "ich möchte zurück in den laden"
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : "ah ok schon ok"
+}{
+  "text" : ""
+}{
+  "text" : "du kannst dir rauskommst"
+}{
+  "text" : "hier kann sich gar nicht vorstellen wie schwierig es war da unten meine schnürsenkel zu binden"
+}{
+  "text" : "nun doch das kann ich sehr wohl auch der schnürsenkel"
+}{
+  "text" : "hey das ist doch nicht etwa mein dach gefalle ich ihm etwa ich habe zehn jahre gespart um dieses gewand zu bekommen das merken ein echtes meisterlich geschneidert"
+}{
+  "text" : "es scheint mir wirklich ein wahrhaftig guter händler zu sein sie sofort die kleidung aus oder steigt vor meinem wagen natura nicht so das ist doch nur schall und rauch und verschloss mich lieber nicht"
+}{
+  "text" : "nun ja es freut mich sehr ja sein name laura ich heiße kraft lawrence lawrence in zukunft wird sein name für alle ewigkeit in den büchern meiner sagenumwobenen erzählungen stehen dürfen lasst uns über etwas anderes reden auf unserer reise musst du dir dein essen selbst beschaffen das hier ist"
+}{
+  "text" : "kein einfaches geschäft ich bin kein dummkopf der glaubt er könne kostenloses essen abstauben"
+}{
+  "text" : "denn immerhin bin ich holo ich stolze und weise welt sind"
+}{
+  "text" : "übrigens es ist etwas eng hier knackt würmer"
+}{
+  "text" : "zur gewöhne ich mich immerhin schnell an die kälte"
+}{
+  "text" : "da"
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : "selbe"
+}{
+  "text" : "sorry"
+}{
+  "text" : "säbel süß geplante seite"
+}{
+  "text" : "ins bild deiner crew sitzt"
+}{
+  "text" : "das sinn"
+}{
+  "text" : "ein bisschen zu das"
+}{
+  "text" : "so nun"
+}{
+  "text" : "mein vergleich of schön"
+}{
+  "text" : "ein bild z b darf nein"
+}{
+  "text" : "befinden"
+}{
+  "text" : ""
+}{
+  "text" : ""
+}{
+  "text" : "besorgung"
+}{
+  "text" : ""
+}{
+  "text" : "umfragen"
+}{
+  "text" : "fehlende sagen"
+}{
+  "text" : "nimmst du"
+}{
+  "text" : "jürgen"
+}{
+  "text" : "nächstes mal die wölfin und die entfernte vergangenheit"
+}{
+  "text" : "nächstes mal die wölfin und die entfernte vergangenheit"
+}{
+  "text" : ""
+}
