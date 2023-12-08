@@ -4,7 +4,9 @@ from transformers import TextDataset, DataCollatorForLanguageModeling
 from transformers import Trainer, TrainingArguments
 
 # Laden Sie das vorab trainierte GPT-2-Modell
-model_name = "gpt2-large"
+#model_name = "gpt2-large"
+model_name = "gpt2"
+#model_name = "dbmdz/german-gpt2"
 model = GPT2LMHeadModel.from_pretrained(model_name)
 tokenizer = GPT2Tokenizer.from_pretrained(model_name)
 tokenizer.save_pretrained('./Model/')
